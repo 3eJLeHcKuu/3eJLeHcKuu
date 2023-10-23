@@ -6,7 +6,7 @@
 
 <h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
-<a href="https://instagram.com/kylanov_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kylanov_v" height="30" width="40" /></a>
+<a href="https://instagram.com/kylakov_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kylanov_v" height="30" width="40" /></a>
 <a href="https://discord.gg/#6683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6683" height="30" width="40" /></a> </p>
 
 <h3 align="left">Языки и инструменты :</h3>
