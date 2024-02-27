@@ -6,7 +6,7 @@
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://instagram.com/kylakov_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kylanov_v" height="30" width="40" /></a>
+<a href="https://instagram.com/v.l.a.d_i_s_l.o.v.e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v.l.a.d_i_s_l.o.v.e" height="30" width="40" /></a>
 <a href="https://discord.gg/#6683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6683" height="30" width="40" /></a> </p>
 
 <h3 align="left">Languages ​​and tools :</h3>
