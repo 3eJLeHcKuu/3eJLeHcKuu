@@ -7,7 +7,7 @@
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://instagram.com/dizzlike_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dizzlike_ height="30" width="40" /></a>
-<a href="https://discord.gg/#6683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6683" height="30" width="40" /></a> </p>
+<a href="https://t.me/Myssalini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" height="30" width="40" /></a> </p>
 <a href="https://www.linkedin.com/in/vlad-kulakov-63263a29b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40" /></a> </p>
 
 <h3 align="left">Languages ​​and tools :</h3>
