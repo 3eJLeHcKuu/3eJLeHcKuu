@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Vlad Kulakov</h1>
+<h1 align="center">Hi 👋, I'm Vlad Kulakov</h1>
 <h3 align="center">Front-end developer from Ukraine</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3ejlehckuu" alt="3ejlehckuu" /></a> </p>
